@@ -1,0 +1,18 @@
+/* Estilos personalizados */
+body {
+    background-color: #fff;
+  }
+  
+  .text-gold {
+    color: #ffd700;
+  }
+  
+  .bg-gold {
+    background-color: #ffd700;
+  }
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+  background-color: #ffd700; /* Cambia el fondo del control al color dorado en hover */
+  opacity: 1; /* Ajusta la opacidad del control en hover */
+}
