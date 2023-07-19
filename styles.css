@@ -16,3 +16,9 @@ body {
   background-color: #ffd700; /* Cambia el fondo del control al color dorado en hover */
   opacity: 1; /* Ajusta la opacidad del control en hover */
 }
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: #7e7e7e; /* Cambia el fondo del control al color dorado en hover */
+  opacity: 1; /* Ajusta la opacidad del control en hover */
+}
